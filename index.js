@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
-
-@yurigurlie207
-yurigurlie207
-/
-js-advanced-functions-functional-library-project-v-000
-forked from learn-co-students/js-advanced-functions-functional-library-project-v-000
-0
-0
-109
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-js-advanced-functions-functional-library-project-v-000/index.js /
-@sgharms
-sgharms solution
-Latest commit 5e4de30 on May 20, 2019
- History
- 4 contributors
-@DanielSeehausen@sgharms@maxwellbenton@alexgriff
-174 lines (137 sloc)  4.4 KB
 
 const fi = (function() {
   return {
