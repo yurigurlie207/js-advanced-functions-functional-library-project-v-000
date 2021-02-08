@@ -5,8 +5,8 @@ Pull requests
 Issues
 Marketplace
 Explore
- 
-@yurigurlie207 
+
+@yurigurlie207
 yurigurlie207
 /
 js-advanced-functions-functional-library-project-v-000
@@ -29,7 +29,7 @@ Latest commit 5e4de30 on May 20, 2019
  4 contributors
 @DanielSeehausen@sgharms@maxwellbenton@alexgriff
 174 lines (137 sloc)  4.4 KB
-  
+
 const fi = (function() {
   return {
     libraryMethod: function() {
